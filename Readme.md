@@ -9,7 +9,9 @@ Beyond coding, I love reading books📕, exploring new tech trends📈, sharing 
 </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Image Compression with GANs**<br>- 💻Upcoming Analyst @ **Tredence**<br>- 📖 Learning currently: LLMs and Conversational Models
+- 🔭 I’m currently working on **Image Compression with GANs**
+- 💻Upcoming Analyst @ **Tredence**
+- 📖 Learning currently: LLMs and Conversational Models
 
 
 ## 🌐 Socials:
