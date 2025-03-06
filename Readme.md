@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tarun RG</h1>
+<img align="center" src="tarun.webp"/>
 <h3 align="center">Final Year Amrita Vishwa Vidyapeetham Student | Data Analyst 🤖 | Full stack Dev 💻 | Book Worm 📚 ✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tr1ck-5t3r" alt="tr1ck-5t3r" /></a> </p>
+<p>Hey yall!😃 I'm Tarun RG, a passionate developer who loves to build web applications and explore new technologies. I have experience in building full-stack web applications 🌐 and deep learning based projects 🤖.
 
-- 🔭 I’m currently working on **Image Compression with Gans**
+I am also the Ex-President of Cognizance Amrita. A tech club that focuses on building a community of developers and tech enthusiasts. I have organized various workshops, hackathons, and tech talks to help students learn and grow.
+
+Beyond coding, I love reading books📕, exploring new tech trends📈, sharing knowledge, and working on innovative side projects."
+</p>
+
+- 🔭 I’m currently working on **Image Compression with GANs**
+- Upcoming Analyst @ **Tredence**
+- Learning currently: LLMs and Conversational Models
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
