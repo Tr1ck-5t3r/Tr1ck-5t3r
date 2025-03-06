@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tarun RG</h1>
-<img align="center" src="tarun.webp"/>
 <h3 align="center">Final Year Amrita Vishwa Vidyapeetham Student | Data Analyst 🤖 | Full stack Dev 💻 | Book Worm 📚 ✨</h3>
 
 <p>Hey yall!😃 I'm Tarun RG, a passionate developer who loves to build web applications and explore new technologies. I have experience in building full-stack web applications 🌐 and deep learning based projects 🤖.
